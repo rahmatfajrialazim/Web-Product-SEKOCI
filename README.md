@@ -14,6 +14,6 @@ Project ini dibangun murni menggunakan Native Web Technologies tanpa framework t
 - Vanilla JavaScript (Logic interaksi, IntersectionObserver API, Web Animations API)
 
 Cara Menjalankan Project (Lokal)
-Clone repository ini ke komputer lokal kamu:
+Clone repository ini ke komputer lokal anda:
    ```bash
    git clone [https://github.com/rahmatfajrialazim/Web-Product-SEKOCI.git](https://github.com/rahmatfajrialazim/Web-Product-SEKOCI.git)
